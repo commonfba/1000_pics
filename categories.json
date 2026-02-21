@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "title": "Animals",
+    "image": "https://raw.githubusercontent.com/commonfba/1000_pics/refs/heads/main/animals.jpeg"
+  },
+  {
+    "id": "2",
+    "title": "Food & Drink",
+    "image": "https://raw.githubusercontent.com/commonfba/1000_pics/refs/heads/main/Foods.jpeg"
+  },
+  {
+    "id": "3",
+    "title": "Objects",
+    "image": "https://raw.githubusercontent.com/commonfba/1000_pics/refs/heads/main/Objects.jpeg"
+  },
+  {
+    "id": "4",
+    "title": "Places",
+    "image": "https://raw.githubusercontent.com/commonfba/1000_pics/refs/heads/main/Places.jpeg"
+  },
+  {
+    "id": "5",
+    "title": "Actions",
+    "image": "https://raw.githubusercontent.com/commonfba/1000_pics/refs/heads/main/actions.jpeg"
+  },
+  {
+    "id": "6",
+    "title": "Nature & Weather",
+    "image": "https://raw.githubusercontent.com/commonfba/1000_pics/refs/heads/main/weather.jpeg"
+  }
+]
